@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MIKE</string>
+    <string name="title_activity_input2">InputActivity2</string>
+    <string name="title_activity_about2">AboutActivity2</string>
+    <string name="title_activity_image2">ImageActivity2</string>
+    <string name="title_activity_assigment2">AssigmentActivity2</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
